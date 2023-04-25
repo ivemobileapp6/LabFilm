@@ -19,7 +19,7 @@
         <q-route-tab to="/about" label="Page Two" />
       </q-tabs>
     </q-header>
-
+ 
     <q-page-container>
       <router-view />
     </q-page-container>
